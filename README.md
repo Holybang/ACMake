@@ -2,15 +2,6 @@
 
 **A**nsweror' **CMake**. Just some useful snippets.
 
-## Installation
-
-```cmake
-list(APPEND CMAKE_MODULE_PATH PATH_TO_ACMAKE)
-```
-
-Then include necessary `.cmake` files.
-
-
 ## Useful snippets
 
 ### acmake\_boost\_support
@@ -25,3 +16,5 @@ Then include necessary `.cmake` files.
 * Include header files;
 * find libs;
 * auto moc `.h`, `.hpp`, `.rc`, `.ui`;
+
+Merge me!!!!
